@@ -1,0 +1,1 @@
+This is a note on 4 hour work week
