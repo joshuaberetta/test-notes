@@ -7,7 +7,9 @@
     "Backlinks": true,
     "Command palette": true,
     "Markdown format importer": true,
-    "Word count": true
+    "Word count": true,
+    "Page preview": true,
+    "Slides": false
   },
   "isSidebarCollapsed": false,
   "isRightSidedockCollapsed": true,
@@ -21,18 +23,54 @@
     "direction": "vertical",
     "children": [
       {
-        "id": "73849a6fcd7a4180",
+        "id": "7b3e96cd4e35a2e5",
         "type": "leaf",
         "dimension": null,
         "active": true,
         "master": "",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "joshua-beretta.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "joshua-beretta.md"
+  ],
+  "hotkeys": {
+    "workspace:split-vertical": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "v"
+      }
+    ],
+    "workspace:split-horizontal": [
+      {
+        "modifiers": [
+          "Mod",
+          "Shift"
+        ],
+        "key": "h"
+      }
+    ],
+    "app:toggle-left-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "["
+      }
+    ],
+    "app:toggle-right-sidebar": [
+      {
+        "modifiers": [
+          "Mod"
+        ],
+        "key": "]"
       }
     ]
   }
