@@ -23,22 +23,22 @@
     "direction": "vertical",
     "children": [
       {
-        "id": "7b3e96cd4e35a2e5",
+        "id": "2d5926b94d3b4024",
         "type": "leaf",
         "dimension": null,
         "active": true,
         "master": "",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ]
   },
   "lastOpenFiles": [
+    "dry-lemon-club.md",
+    "202005291646-dry-lemon-club-neil.md",
+    "4-hour-work-week.md",
     "joshua-beretta.md"
   ],
   "hotkeys": {
